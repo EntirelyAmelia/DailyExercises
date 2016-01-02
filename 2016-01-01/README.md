@@ -22,5 +22,5 @@ poxuyusovevivikutire
 Error handling: make your program react when a user inputs a pattern that doesn't consist of only c's and v's.
 When the user inputs a capital C or V, capitalize the letter in that index of the output.
 
-Source:
+## Source:
 [https://www.reddit.com/r/dailyprogrammer/comments/3q9vpn/20151026_challenge_238_easy_consonants_and_vowels/](https://www.reddit.com/r/dailyprogrammer/comments/3q9vpn/20151026_challenge_238_easy_consonants_and_vowels/)
